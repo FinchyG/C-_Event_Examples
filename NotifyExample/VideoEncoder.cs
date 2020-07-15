@@ -7,9 +7,7 @@ namespace NotifyExample
 {
     class VideoEncoder
     {
-        public delegate void VideoEncodedEventHandler(object source, EventArgs args);
-
-        public event VideoEncodedEventHandler VideoEncoded;
+        public event EventHandler VideoEncoded;
         public void Encode(Video video)
         {
             Console.WriteLine("Encoding Viedo...");

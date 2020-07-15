@@ -1,0 +1,13 @@
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\NotifyExampleCustomArgs\bin\Debug\netcoreapp3.1\NotifyExampleCustomArgs.exe
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\NotifyExampleCustomArgs\bin\Debug\netcoreapp3.1\NotifyExampleCustomArgs.deps.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\NotifyExampleCustomArgs\bin\Debug\netcoreapp3.1\NotifyExampleCustomArgs.runtimeconfig.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\NotifyExampleCustomArgs\bin\Debug\netcoreapp3.1\NotifyExampleCustomArgs.runtimeconfig.dev.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\NotifyExampleCustomArgs\bin\Debug\netcoreapp3.1\NotifyExampleCustomArgs.dll
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\NotifyExampleCustomArgs\bin\Debug\netcoreapp3.1\NotifyExampleCustomArgs.pdb
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\NotifyExampleCustomArgs\obj\Debug\netcoreapp3.1\NotifyExampleCustomArgs.csprojAssemblyReference.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\NotifyExampleCustomArgs\obj\Debug\netcoreapp3.1\NotifyExampleCustomArgs.AssemblyInfoInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\NotifyExampleCustomArgs\obj\Debug\netcoreapp3.1\NotifyExampleCustomArgs.AssemblyInfo.cs
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\NotifyExampleCustomArgs\obj\Debug\netcoreapp3.1\NotifyExampleCustomArgs.csproj.CoreCompileInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\NotifyExampleCustomArgs\obj\Debug\netcoreapp3.1\NotifyExampleCustomArgs.dll
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\NotifyExampleCustomArgs\obj\Debug\netcoreapp3.1\NotifyExampleCustomArgs.pdb
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\NotifyExampleCustomArgs\obj\Debug\netcoreapp3.1\NotifyExampleCustomArgs.genruntimeconfig.cache

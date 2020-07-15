@@ -11,3 +11,16 @@ C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\NotifyExample\obj\Debug\n
 C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\NotifyExample\obj\Debug\netcoreapp3.1\NotifyExample.dll
 C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\NotifyExample\obj\Debug\netcoreapp3.1\NotifyExample.pdb
 C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\NotifyExample\obj\Debug\netcoreapp3.1\NotifyExample.genruntimeconfig.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Examples\EventExamples\NotifyExample\bin\Debug\netcoreapp3.1\NotifyExample.exe
+C:\Users\lagau\OneDrive\Documents\Git\C#\Examples\EventExamples\NotifyExample\bin\Debug\netcoreapp3.1\NotifyExample.deps.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Examples\EventExamples\NotifyExample\bin\Debug\netcoreapp3.1\NotifyExample.runtimeconfig.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Examples\EventExamples\NotifyExample\bin\Debug\netcoreapp3.1\NotifyExample.runtimeconfig.dev.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Examples\EventExamples\NotifyExample\bin\Debug\netcoreapp3.1\NotifyExample.dll
+C:\Users\lagau\OneDrive\Documents\Git\C#\Examples\EventExamples\NotifyExample\bin\Debug\netcoreapp3.1\NotifyExample.pdb
+C:\Users\lagau\OneDrive\Documents\Git\C#\Examples\EventExamples\NotifyExample\obj\Debug\netcoreapp3.1\NotifyExample.csprojAssemblyReference.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Examples\EventExamples\NotifyExample\obj\Debug\netcoreapp3.1\NotifyExample.AssemblyInfoInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Examples\EventExamples\NotifyExample\obj\Debug\netcoreapp3.1\NotifyExample.AssemblyInfo.cs
+C:\Users\lagau\OneDrive\Documents\Git\C#\Examples\EventExamples\NotifyExample\obj\Debug\netcoreapp3.1\NotifyExample.csproj.CoreCompileInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Examples\EventExamples\NotifyExample\obj\Debug\netcoreapp3.1\NotifyExample.dll
+C:\Users\lagau\OneDrive\Documents\Git\C#\Examples\EventExamples\NotifyExample\obj\Debug\netcoreapp3.1\NotifyExample.pdb
+C:\Users\lagau\OneDrive\Documents\Git\C#\Examples\EventExamples\NotifyExample\obj\Debug\netcoreapp3.1\NotifyExample.genruntimeconfig.cache
