@@ -1,0 +1,13 @@
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\EventExample\bin\Debug\netcoreapp3.1\EventExample.exe
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\EventExample\bin\Debug\netcoreapp3.1\EventExample.deps.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\EventExample\bin\Debug\netcoreapp3.1\EventExample.runtimeconfig.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\EventExample\bin\Debug\netcoreapp3.1\EventExample.runtimeconfig.dev.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\EventExample\bin\Debug\netcoreapp3.1\EventExample.dll
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\EventExample\bin\Debug\netcoreapp3.1\EventExample.pdb
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\EventExample\obj\Debug\netcoreapp3.1\EventExample.csprojAssemblyReference.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\EventExample\obj\Debug\netcoreapp3.1\EventExample.AssemblyInfoInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\EventExample\obj\Debug\netcoreapp3.1\EventExample.AssemblyInfo.cs
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\EventExample\obj\Debug\netcoreapp3.1\EventExample.csproj.CoreCompileInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\EventExample\obj\Debug\netcoreapp3.1\EventExample.dll
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\EventExample\obj\Debug\netcoreapp3.1\EventExample.pdb
+C:\Users\lagau\OneDrive\Documents\Git\C#\EventExamples\EventExample\obj\Debug\netcoreapp3.1\EventExample.genruntimeconfig.cache
